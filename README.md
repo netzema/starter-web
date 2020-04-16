@@ -3,6 +3,7 @@ Adding a line for rebasing example
 more changes from my feature branch
 This is a simple website project for
 showing how to use Git and Github together.
+another text inserted
 ## Introdcution
 
 This example is to show different parts
