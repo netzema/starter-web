@@ -22,3 +22,6 @@ file system.
 
 ## How To Contribute
 
+### Copyright
+
+Git Training 2014
