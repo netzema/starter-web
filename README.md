@@ -27,4 +27,4 @@ Please fork this repository.
 
 ### Copyright
 
-Git Training 2014
+Git Training 2014. All rights reserved
