@@ -22,6 +22,8 @@ file system.
 
 ## How To Contribute
 
+Please fork this repository.
+
 ### Copyright
 
 Git Training 2014
